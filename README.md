@@ -1,4 +1,4 @@
-## Olá! Sou Brígido Domingos Siga!
+## Brígido Domingos Siga!
 
 ## Software developer 
 ## Javascript | Typescript | HTML5 | CSS3| React | NodeJS | C#
